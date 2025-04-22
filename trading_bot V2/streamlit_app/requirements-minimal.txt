@@ -1,0 +1,9 @@
+streamlit==1.25.0
+pandas==1.5.3
+numpy==1.23.5
+plotly==5.15.0
+requests==2.28.2
+python-dotenv==1.0.0
+yfinance==0.2.18
+matplotlib==3.7.1
+alpaca-trade-api==3.0.0
